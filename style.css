@@ -1,0 +1,54 @@
+.menu{
+   text-decoration:none;
+  position:fixed;
+  background:yellow;
+  width:100%;
+  margin-top:0px;
+  top:0px;
+  z-index:9;
+}
+.link{
+display:inline;
+  padding-right:10px;
+  padding-left:10px;
+  font-size:18px;
+  }
+body{
+  text-align:center;
+}
+#SchoolName{
+background:blue;
+  color:white;
+  z-index:7;
+  margin-top:0px;
+  top:0px;
+  
+}
+h1{
+  
+}
+img{
+  width:100%;
+}
+#CampusLife{
+  background:red;
+  color:white;
+}
+#Achievements{
+  background:yellow;
+  color:green;
+  
+
+}
+#contacts{
+  background:green;
+  color:White;
+}
+#Achievements p{
+  max-width:700px;
+  margin:auto;
+}
+
+
+
+
